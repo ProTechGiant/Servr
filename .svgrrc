@@ -1,0 +1,6 @@
+{
+	"replaceAttrValues": {
+	  "current": "{props.fill}",
+	  "#f00": "{props.fillSecondary}",
+	}
+}
